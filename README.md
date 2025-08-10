@@ -5,6 +5,9 @@ I'm an machine learning engineer that is currently focused of Privacy Enhancing 
 [LinkedIn Profile](https://www.linkedin.com/in/charles-carlson-14aa1090/)
 
 ## Skills
-**Backend and Database:** Python, PySpark, PyTest, Flask, SQL (Redshift), NoSQL (MongoDB)
-**Frontend Development:** React, Typescript, Javascript, HTML, CSS
-**Development Practices:** Git, CI/CD, Docker, Bash, Agile
+**Backend and Database:** Python, PySpark, PyTest, Flask, SQL (Redshift), NoSQL (MongoDB)  
+**Frontend Development:** React, Typescript, Javascript, HTML, CSS  
+**Development Practices:** Git, CI/CD, Docker, Bash, Agile  
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
