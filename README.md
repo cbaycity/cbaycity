@@ -10,4 +10,5 @@ I'm an machine learning engineer that is currently focused of Privacy Enhancing 
 **Development Practices:** Git, CI/CD, Docker, Bash, Agile  
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+
